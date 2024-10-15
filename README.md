@@ -11,5 +11,8 @@
 9) while loop
 10) Array
 11) Function
-12) List
+12) Lists
+13) Tuples
+14) Sets
+15) Dictionaries
    
