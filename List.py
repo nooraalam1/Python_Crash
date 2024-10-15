@@ -14,23 +14,19 @@ print(my_list)
 print(len(my_list))
 print(type(my_list)) #<class 'list'>
 
-#-------------------------------------
 
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[2:5]) #['cherry', 'orange', 'kiwi'] --from index 2 to before index 5
 
-#-------------------------------------
 
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[-4:-1]) #['orange', 'kiwi', 'melon']
 
-#-------------------------------------
 
 thislist = ["apple", "banana", "cherry"]
 thislist.insert(2, "watermelon")
 print(thislist) #['apple', 'banana', 'watermelon', 'cherry']
 
-#-------------------------------------
 
 thislist = ["apple", "banana", "cherry"]
 tropical = ["mango", "pineapple", "papaya"]
@@ -38,6 +34,4 @@ tropical = ["mango", "pineapple", "papaya"]
 thislist.extend(tropical)
 
 print(thislist) #['apple', 'banana', 'cherry', 'mango', 'pineapple', 'papaya']
-
-
 
