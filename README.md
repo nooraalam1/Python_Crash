@@ -10,4 +10,5 @@
 8) For Loop
 9) while loop
 10) Array
+11) Function
    
