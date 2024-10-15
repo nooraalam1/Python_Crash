@@ -1,5 +1,5 @@
 # Python_Crash
-## Context
+## Content
 1) Environment Setup
 2) Indentation
 3) Comments
@@ -8,4 +8,6 @@
 6) String Methods
 7) if-elif-else
 8) For Loop
+9) while loop
+10) Array
    
