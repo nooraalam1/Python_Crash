@@ -16,4 +16,9 @@
 14) Sets
 15) Dictionaries
 16) User Input & Format String
-   
+## OOP
+17) Class/Object
+18) Inheritance
+19) Polymorphism
+20) Encapsulation
+21) Abstraction
