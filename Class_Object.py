@@ -12,7 +12,7 @@ print(p2.age)
 
 #---Methods---
 '''
-delete 
+---delete--- 
 del p1.name
 del p1
 
